@@ -1,9 +1,13 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
+  name: IIIT Delhi
+  dates: 2014 - 2018
+  qualification: Bachelor's in Computer Science and Engineering.
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    During my degree at IIIT Delhi, I learnt lots of key skills such as team work and project management. Although
+    we mainly focused on software development and the principles of programming I use a lot of these skills to
+    my advantage in my day to day work.
+
+    While at my Uni, I spent a lot of my free time teaching "Code Classes". I love to teach and being a firm believer of 
+    "Knowledge increases with sharing" definitely helps in that regard.
+    
