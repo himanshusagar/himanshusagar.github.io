@@ -1,10 +1,13 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Adobe Inc.
+  link: https://www.adobe.com/
+  job_title: Software Development Engineer
+  dates: December 2018 - Present
   quote: >
-   Short description of the company (optional)
+  Adobe Systems Incorporated is an American multinational computer software company headquartered in San Jose, California.
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    I have ownership of two wonderful sub-parts of one of the most famous products of <mark>Adobe</mark> i.e <mark>Acrobat DC</mark>.
+    They are Accessibility & Multimedia. I have developed support for Multimedia playback (audio/video based on System Decoding APIs) for Win and Mac. T
+    his work was done in compliance with PDF ISO-32000-2 specfication.
+
